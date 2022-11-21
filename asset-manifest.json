@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Memory-Creation/static/css/main.fe11ac7b.css",
+    "main.js": "/Memory-Creation/static/js/main.ff8d5b03.js",
+    "static/media/image-20150331-1256-mz95ed.avif": "/Memory-Creation/static/media/image-20150331-1256-mz95ed.1e368b9db23573b0cd28.avif",
+    "index.html": "/Memory-Creation/index.html",
+    "main.fe11ac7b.css.map": "/Memory-Creation/static/css/main.fe11ac7b.css.map",
+    "main.ff8d5b03.js.map": "/Memory-Creation/static/js/main.ff8d5b03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe11ac7b.css",
+    "static/js/main.ff8d5b03.js"
+  ]
+}
